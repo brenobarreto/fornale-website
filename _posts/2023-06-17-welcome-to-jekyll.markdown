@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Level up your foodie experience"
 date:   2023-06-17 12:46:57 -0300
 categories: jekyll update
 ---
