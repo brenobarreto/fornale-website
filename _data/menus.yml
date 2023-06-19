@@ -1,0 +1,18 @@
+main:
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "Download"
+    url: "/download/"
+    weight: 2
+
+footer:
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "Contact"
+    url: "/contact/"
+    weight: 2
+  - name: "Privacy Policy"
+    url: "/privacy/"
+    weight: 3

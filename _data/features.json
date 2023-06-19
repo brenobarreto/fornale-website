@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Savor Every Bite",
+    "description": "Capture your gastronomic experiences and create your own feed of delicious memory.",
+    "image": {
+      "url": "images/features/camera.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Create Culinary Journeys",
+    "description": "Create personalized food maps with the restaurants you've already visited and those you still want to experience.",
+    "image": {
+      "url": "images/features/map.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Connect and Explore",
+    "description": "Connect with food lovers, explore their experiences, and discover flavors all over the world.",
+    "image": {
+      "url": "images/features/people.png",
+      "width": 80,
+      "height": 80
+    }
+  }
+]
