@@ -1,5 +1,5 @@
 ---
-title: Fornale
+title: Ristolog
 layout: home
 description: Level up your foodie experience
 intro_image: "images/illustrations/home-illustration.jpg"
@@ -11,4 +11,4 @@ show_coming_soon: true
 
 # Level up your foodie experience
 
-Explore the world through flavor. Fornale is your companion for capturing, discovering, and savoring every remarkable foodie moment.
+Explore the world through flavor. Ristolog is your companion for capturing, discovering, and savoring every remarkable foodie moment.

@@ -5,11 +5,11 @@ description: Privacy Policy
 bodyClass: page-about
 ---
 
-At Fornale, we value the privacy of our users and are committed to protecting their personal information. This Privacy Policy outlines how we collect, use, and disclose the information obtained through the use of our mobile application ("App").
+At Ristolog, we value the privacy of our users and are committed to protecting their personal information. This Privacy Policy outlines how we collect, use, and disclose the information obtained through the use of our mobile application ("App").
 
 ## Information We Collect
 ### 1.1 Personal Information
-When you sign up for Fornale, we collect your email address and password to create and secure your account. This information is necessary for you to access and use our App.
+When you sign up for Ristolog, we collect your email address and password to create and secure your account. This information is necessary for you to access and use our App.
 
 ### 1.2 Camera Access
 Our App requires access to your device's camera to allow you to capture and upload photos of the dishes you experience. We do not store or access these photos without your explicit permission.
@@ -37,8 +37,8 @@ We take appropriate security measures to protect your personal information and m
 We may update this Privacy Policy from time to time. Any changes will be posted on this page, and the effective date will be revised accordingly. We encourage you to review this Privacy Policy periodically for any updates.
 
 ## Contact Us
-If you have any questions, concerns, or requests regarding this Privacy Policy or the use of your personal information, please contact us at contact@fornale.com.
+If you have any questions, concerns, or requests regarding this Privacy Policy or the use of your personal information, please contact us at contact@ristolog.com.
 
 ---
 
-By using Fornale, you acknowledge that you have read and understood this Privacy Policy and agree to the collection, use, and disclosure of your personal information as described herein.
+By using Ristolog, you acknowledge that you have read and understood this Privacy Policy and agree to the collection, use, and disclosure of your personal information as described herein.
