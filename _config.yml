@@ -1,14 +1,14 @@
 baseurl: '/'
 permalink: pretty
-title: 'Ristolog'
+title: 'Foodlog'
 
 logo:
-  mobile: "images/logo/logo-mobile.svg"
+  mobile: "images/logo/foodlog-logo-mobile.png"
   mobile_height: "32px"
   mobile_width: "32px"
-  desktop: "images/logo/logo.svg"
-  desktop_height: "32px"
-  desktop_width: "120px"
+  desktop: "images/logo/foodlog-logo.png"
+  desktop_height: "38.4px"
+  desktop_width: "144px"
 
 home: 
   limit_services: 6
